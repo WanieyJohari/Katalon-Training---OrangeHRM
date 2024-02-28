@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_006 - Enter Invalid Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23f6ac08-8757-48ac-8113-11b77640dcd5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c01c566-0f4d-48ce-9df8-5b74bd3f0758</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'wanieyjoe'</defaultValue>
+      <description></description>
+      <id>4c01c566-0f4d-48ce-9df8-5b74bd3f0758</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_033 - Successfully edit the amount of minimum salary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13369498-e7ec-4b37-a984-95d1a9c7dde7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0051922d-18dd-4364-9d62-2b0fdc18d6ff</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'3000'</defaultValue>
+      <description></description>
+      <id>0051922d-18dd-4364-9d62-2b0fdc18d6ff</id>
+      <masked>false</masked>
+      <name>minimumSalary</name>
+   </variable>
+</TestCaseEntity>

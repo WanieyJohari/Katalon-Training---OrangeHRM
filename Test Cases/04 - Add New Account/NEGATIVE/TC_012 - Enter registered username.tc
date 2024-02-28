@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_012 - Enter registered username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1d294d9-b4f2-44c4-a80f-820c8007db7d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>56c7830e-3c3b-4bd7-a5bb-302f841c154a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Anthony Nolan'</defaultValue>
+      <description></description>
+      <id>56c7830e-3c3b-4bd7-a5bb-302f841c154a</id>
+      <masked>false</masked>
+      <name>employeeName</name>
+   </variable>
+</TestCaseEntity>

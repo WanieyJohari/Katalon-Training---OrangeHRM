@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_008 - Users enter invalid username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8ad3c2d-2314-4adc-a94b-2d3b84191309</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1a5522e6-0f13-4b1c-b75c-b4a2c7ee1894</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin12345678'</defaultValue>
+      <description></description>
+      <id>1a5522e6-0f13-4b1c-b75c-b4a2c7ee1894</id>
+      <masked>false</masked>
+      <name>searchUsername</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_027 - Successfully add new currency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>faf4ef92-fdaf-4503-9eba-61fb71e59d8c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>06075f5b-20a6-4c48-827c-7b696827a65f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'GBP - Pound Sterling'</defaultValue>
+      <description></description>
+      <id>06075f5b-20a6-4c48-827c-7b696827a65f</id>
+      <masked>false</masked>
+      <name>currency3</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_051 - Users enter an unregistered name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58d30611-265c-4f60-a579-9f9dafa8e541</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c3ee13c7-99a9-485e-b4b0-9089ac08ef74</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'User001'</defaultValue>
+      <description></description>
+      <id>c3ee13c7-99a9-485e-b4b0-9089ac08ef74</id>
+      <masked>false</masked>
+      <name>employeeName</name>
+   </variable>
+</TestCaseEntity>

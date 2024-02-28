@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_019 - Successfully add new job title</name>
+   <tag>POS</tag>
+   <comment></comment>
+   <testCaseGuid>0a2ec160-f005-4184-aa6c-cb38b3bb048e</testCaseGuid>
+</TestCaseEntity>

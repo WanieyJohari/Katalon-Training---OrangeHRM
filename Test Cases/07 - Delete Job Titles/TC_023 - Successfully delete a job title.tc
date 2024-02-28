@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_023 - Successfully delete a job title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcc5fa98-ab3c-4e17-8766-09d8ae5207c6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_041 - Successfully add employee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>419749ac-4183-435d-b894-5add24b62830</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8b732d8e-c25a-45ff-a44a-273d3f24b9e9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>14f54fad-5cac-4a93-a7b9-2584907a8bd8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f5ef77a-ce04-4150-897c-e6f10eb43ea0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Eva'</defaultValue>
+      <description></description>
+      <id>8b732d8e-c25a-45ff-a44a-273d3f24b9e9</id>
+      <masked>false</masked>
+      <name>employeeFirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Oliver'</defaultValue>
+      <description></description>
+      <id>14f54fad-5cac-4a93-a7b9-2584907a8bd8</id>
+      <masked>false</masked>
+      <name>employeeLastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'1304'</defaultValue>
+      <description></description>
+      <id>2f5ef77a-ce04-4150-897c-e6f10eb43ea0</id>
+      <masked>false</masked>
+      <name>employeeID</name>
+   </variable>
+</TestCaseEntity>

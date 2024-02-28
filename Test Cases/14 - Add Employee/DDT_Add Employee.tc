@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT_Add Employee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cebb4add-5f84-4085-9422-3a60b72e1fde</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>97d4c0d4-a896-44a5-b424-2e169341cce5</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/AddEmployee</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>97d4c0d4-a896-44a5-b424-2e169341cce5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>employeeFirstName</value>
+      <variableId>da89734e-df20-427f-aea4-8e9b8de53ef1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>97d4c0d4-a896-44a5-b424-2e169341cce5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>employeeLastName</value>
+      <variableId>f0077bf6-fe1b-4bea-ac3c-65cfd331ef03</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>97d4c0d4-a896-44a5-b424-2e169341cce5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>employeeID</value>
+      <variableId>13c9d96f-cc6b-4ad7-9d9f-4ee3bbf2ddcc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Eva'</defaultValue>
+      <description></description>
+      <id>da89734e-df20-427f-aea4-8e9b8de53ef1</id>
+      <masked>false</masked>
+      <name>employeeFirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Oliver'</defaultValue>
+      <description></description>
+      <id>f0077bf6-fe1b-4bea-ac3c-65cfd331ef03</id>
+      <masked>false</masked>
+      <name>employeeLastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'1304'</defaultValue>
+      <description></description>
+      <id>13c9d96f-cc6b-4ad7-9d9f-4ee3bbf2ddcc</id>
+      <masked>false</masked>
+      <name>employeeID</name>
+   </variable>
+</TestCaseEntity>

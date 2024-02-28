@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_025 - Successfully add new pay grade</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e549386f-d82d-4a1d-b555-a35b7aacd4db</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c8803ae1-6722-4a6b-90f2-ce0608b9e365</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Grade ABC'</defaultValue>
+      <description></description>
+      <id>c8803ae1-6722-4a6b-90f2-ce0608b9e365</id>
+      <masked>false</masked>
+      <name>nameGrade</name>
+   </variable>
+</TestCaseEntity>

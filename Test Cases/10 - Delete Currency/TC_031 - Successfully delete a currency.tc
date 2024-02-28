@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_031 - Successfully delete a currency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73ac14e7-b326-4353-ba56-9c7a25d57509</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07cd391c-4b0d-41c7-955d-13cfddb77f1e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Malaysian Ringgit'</defaultValue>
+      <description></description>
+      <id>07cd391c-4b0d-41c7-955d-13cfddb77f1e</id>
+      <masked>false</masked>
+      <name>addCurrency</name>
+   </variable>
+</TestCaseEntity>

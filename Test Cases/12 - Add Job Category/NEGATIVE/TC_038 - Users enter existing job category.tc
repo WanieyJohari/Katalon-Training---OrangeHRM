@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_038 - Users enter existing job category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ddcaa373-719f-47e6-bb86-aa25c53dbfbc</testCaseGuid>
+</TestCaseEntity>

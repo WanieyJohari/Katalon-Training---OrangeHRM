@@ -1,0 +1,106 @@
+Features and Scenarios from OrangeHRM
+//This list is not necessarily exhaustive, and you can explore the application further and practice on your own.
+
+❖ Login
+➢ (+) Successfully login
+➢ (-) Users enter invalid username
+➢ (-) Users enter incorrect password 
+
+❖ Reset password
+➢ (+) Successfully reset the password 
+➢ (-) Users enter the same username 
+➢ (-) Users enter invalid username
+
+
+Admin > User Management > Users (This is considered one group of features)
+
+❖ Search Users
+➢ (+) Users enter valid username
+➢ (-) Users enter invalid username
+
+❖ Add New Account
+➢ (+) Successfully add new user
+➢ (-) Users enter an unregistered employee name
+➢ (-) Users enter less than five characters for username
+➢ (-) Users enter the registered username
+➢ (-) Users enter less than eight characters for password
+➢ (+) User did not enter alphanumeric number for password 
+➢ (-) Password confirmation doesn't match password
+➢ (-) Users leave the form blank
+
+❖ Delete Account
+➢ (+) Successfully delete account
+➢ (+) Users delete more than one account
+
+
+Admin > Job > Job Titles
+
+❖ Add Job Titles (Admin > Job > Job Titles)
+➢ (+) Successfully add new job title
+➢ (-) Users enter registered job title
+➢ (-) Users select file more than 1 MB
+➢ (-) User leave job title blank
+
+❖ Delete Job Titles
+➢ (+) Successfully delete a job title
+➢ (+) Users delete more than one job titles
+
+
+Admin > Job > Pay Grades
+
+❖ Add Pay Grade
+➢ (+) Successfully add new pay grade
+➢ (-) Users enter registered pay grade 
+
+❖ Add Currency
+➢ (+) Successfully add new currency 
+➢ (-) Users enter invalid currency
+➢ (-) Users enter registered currency
+➢ (-) Users enter minimum salary higher than maximum salary 
+
+❖ Delete Currency
+➢ (+) Successfully delete a currency
+➢ (+) Users delete more than one currency
+
+❖ Edit Currency
+➢ (+) Successfully edit the amount of minimum salary
+➢ (+) Successfully edit the amount of maximum salary
+➢ (+) Successfully replace the currency
+➢ (-) Users enter minimum salary higher than maximum salary
+
+
+Admin > Job > Job Categories
+
+❖ Add Job Category
+➢ (+) Successfully add new job category
+➢ (-) Users enter existing job category
+
+❖ Delete Job Category
+➢ (+) Successfully delete a job category
+➢ (+) Users delete more than job category
+
+
+PIM > Employee List
+
+❖ Add Employee
+➢ (+) Successfully add employee
+➢ (-) Register using existing employee ID
+➢ (-) Selected file is larger than 1MB
+➢ (-) Users enter registered username
+➢ (-) Login password is less than 8 characters
+➢ (+) Login password is very weak
+➢ (-) Password confirmation doesn't match password 
+
+❖ Search Employee
+➢ (+) Search employee using ID
+➢ (-) Users enter invalid username
+➢ (+) Search employee using name
+➢ (-) Users enter an unregistered name
+➢ (+) Search employee base on employment status 
+➢ (+) Search employee base on job title
+➢ (+) search employee using supervisor name
+➢ (+) Search employee using on sub-unit
+
+❖ Delete Employee Record
+➢ (+) Successfully delete an employee’s record
+➢ (+) Users delete more than one employee’s record

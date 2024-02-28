@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_021 - Users select file more than 1 MB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0984675-6536-4b18-89b5-a1704e1abcae</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2972aa0a-514f-4060-8ca8-76cc7a0b6ff9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07c58e24-8d63-458d-83a2-37598c0dd53d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4d450da9-b882-4941-a334-180c6dd6fe21</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Automation Tester'</defaultValue>
+      <description></description>
+      <id>2972aa0a-514f-4060-8ca8-76cc7a0b6ff9</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'focusing on automating the testing process'</defaultValue>
+      <description></description>
+      <id>07c58e24-8d63-458d-83a2-37598c0dd53d</id>
+      <masked>false</masked>
+      <name>jobDescription</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\Waniey Jaeger\\Downloads\\sample PDF 1.5MB.pdf'</defaultValue>
+      <description></description>
+      <id>4d450da9-b882-4941-a334-180c6dd6fe21</id>
+      <masked>false</masked>
+      <name>jobUploadFile</name>
+   </variable>
+</TestCaseEntity>

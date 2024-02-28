@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_054 - search employee using supervisor name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a26983b0-8d08-4e69-afb8-3a9f5c5980d8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eaecc030-ba10-4e36-95da-a8626646830c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Anthony  Nolan'</defaultValue>
+      <description></description>
+      <id>eaecc030-ba10-4e36-95da-a8626646830c</id>
+      <masked>false</masked>
+      <name>supervisorName</name>
+   </variable>
+</TestCaseEntity>

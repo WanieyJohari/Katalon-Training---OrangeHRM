@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT_Add Job Title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0505ac48-65cf-46be-a811-2d069926cf90</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>8b88e0f8-9295-4489-8e26-bb5b9660cc64</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/AddJobTitle</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>8b88e0f8-9295-4489-8e26-bb5b9660cc64</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>jobTitle</value>
+      <variableId>daf88640-81a0-4721-9260-5531c7e1f375</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>8b88e0f8-9295-4489-8e26-bb5b9660cc64</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>jobDescription</value>
+      <variableId>ef0f7023-bfee-49ca-ac92-675ca8c24178</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Recruiter'</defaultValue>
+      <description></description>
+      <id>daf88640-81a0-4721-9260-5531c7e1f375</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'play a crucial role in sourcing, attracting, and selecting top talent '</defaultValue>
+      <description></description>
+      <id>ef0f7023-bfee-49ca-ac92-675ca8c24178</id>
+      <masked>false</masked>
+      <name>jobDescription</name>
+   </variable>
+</TestCaseEntity>

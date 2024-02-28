@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_039 - Successfully delete a job category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5364ae3-61c9-4080-8c64-2ccad1c66870</testCaseGuid>
+</TestCaseEntity>

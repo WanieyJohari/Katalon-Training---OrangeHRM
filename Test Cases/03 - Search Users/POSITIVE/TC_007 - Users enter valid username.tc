@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_007 - Users enter valid username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b84a674e-64f7-4ec0-8c43-81771ba4976a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9f2a0a8f-d7be-47cc-a6ed-576f7f56216d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>9f2a0a8f-d7be-47cc-a6ed-576f7f56216d</id>
+      <masked>false</masked>
+      <name>searchUsername</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_034 - Successfully edit the amount of maximum salary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04d7fe66-4aa3-4953-be52-e63e223e8044</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>79103a65-7554-4f58-bf09-c727fda54bc4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'5000'</defaultValue>
+      <description></description>
+      <id>79103a65-7554-4f58-bf09-c727fda54bc4</id>
+      <masked>false</masked>
+      <name>maximumSalary</name>
+   </variable>
+</TestCaseEntity>

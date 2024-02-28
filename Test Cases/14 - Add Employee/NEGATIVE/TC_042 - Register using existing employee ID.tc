@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_042 - Register using existing employee ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfe9f661-9d44-4c04-9b62-db85b841c8f3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a26e696-a1b3-4e3b-a87c-326cee07e294</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>54cf840f-22ed-427a-ba14-267439af0659</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a6830ac-5fab-48fc-87ca-335d44024d4a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Anna'</defaultValue>
+      <description></description>
+      <id>0a26e696-a1b3-4e3b-a87c-326cee07e294</id>
+      <masked>false</masked>
+      <name>employeeFirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Lewis'</defaultValue>
+      <description></description>
+      <id>54cf840f-22ed-427a-ba14-267439af0659</id>
+      <masked>false</masked>
+      <name>employeeLastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'1304'</defaultValue>
+      <description></description>
+      <id>4a6830ac-5fab-48fc-87ca-335d44024d4a</id>
+      <masked>false</masked>
+      <name>employeeID</name>
+   </variable>
+</TestCaseEntity>

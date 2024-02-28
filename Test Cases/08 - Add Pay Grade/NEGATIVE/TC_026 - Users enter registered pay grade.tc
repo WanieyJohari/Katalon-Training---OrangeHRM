@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_026 - Users enter registered pay grade</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b531ee2-4dcd-4e2d-8977-6492a965ec2d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>32af25cc-b10d-4ff9-abb6-7776c1a36b52</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Grade ABC'</defaultValue>
+      <description></description>
+      <id>32af25cc-b10d-4ff9-abb6-7776c1a36b52</id>
+      <masked>false</masked>
+      <name>nameGrade</name>
+   </variable>
+</TestCaseEntity>

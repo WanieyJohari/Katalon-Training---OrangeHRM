@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_002 - Invalid Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>637fbb65-041b-4a69-ad5a-91f62c88ba57</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>afa47576-db17-4ef8-a751-d6aec74ce278</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0fb45fa0-2963-41c3-bc89-566b9162fb27</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin01'</defaultValue>
+      <description></description>
+      <id>afa47576-db17-4ef8-a751-d6aec74ce278</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'hUKwJTbofgPU9eVlw/CnDQ=='</defaultValue>
+      <description></description>
+      <id>0fb45fa0-2963-41c3-bc89-566b9162fb27</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

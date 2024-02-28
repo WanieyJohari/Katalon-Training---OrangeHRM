@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_052 - Search employee base on employment status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93825752-4201-4bd6-a93d-0c2e999afb37</testCaseGuid>
+</TestCaseEntity>

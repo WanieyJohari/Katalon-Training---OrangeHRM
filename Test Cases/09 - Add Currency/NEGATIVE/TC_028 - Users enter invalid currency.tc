@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_028 - Users enter invalid currency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8b53bc9-57e7-4050-89b3-2f9c335d0f3b</testCaseGuid>
+</TestCaseEntity>
